@@ -1,0 +1,24 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.hbs",
+    "build": "parcel build index.hbs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nik713/chat.git"
+  },
+  "author": "nikimix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nik713/chat/issues"
+  },
+  "homepage": "https://github.com/nik713/chat#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "parcel-transformer-handlebars": "^1.0.0"
+  }
+}
